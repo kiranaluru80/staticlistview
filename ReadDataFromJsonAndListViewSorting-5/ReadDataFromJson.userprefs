@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{18E96A13-D497-4684-8A0B-DB204F7A65A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs">
+    <Files>
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" Line="29" Column="1" />
+      <File FileName="ReadDataFromJson/OutPut.cs" Line="32" Column="2" />
+      <File FileName="ReadDataFromJson/getbannerdata.json" Line="141" Column="4" />
+      <File FileName="ReadDataFromJson/ResponceModel.cs" Line="6" Column="2" />
+      <File FileName="ReadDataFromJson/ViewModelBase.cs" Line="15" Column="5" />
+      <File FileName="ReadDataFromJson/ReadDataViewModel.cs" Line="102" Column="1" />
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml" Line="40" Column="15" />
+      <File FileName="ReadDataFromJson/App.xaml.cs" Line="11" Column="35" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="ReadDataFromJson/ResponceTwo.cs" Line="14" Column="31" />
+      <File FileName="ReadDataFromJson/DynamicScreen.xaml" Line="20" Column="15" />
+      <File FileName="ReadDataFromJson/DynamicScreen.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJsonAndListViewSorting-5/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="40" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJsonAndListViewSorting-5/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="20" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJsonAndListViewSorting-5/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="94" column="78" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadDataFromJson.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+</Properties>

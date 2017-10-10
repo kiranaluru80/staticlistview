@@ -1,0 +1,141 @@
+﻿[
+   {
+     "Category": "Communications",
+     "CategoryDesc": "Communications",
+     "Category_ID": 1,
+     "Comments": null,
+     "EntBehaviors": [
+       {
+         "Behavior": "comm 1",
+         "BehaviorDesc": "comm 1",
+         "BehaviorType": "Enterprise",
+         "BehaviorType_ID": 1,
+         "Behavior_ID": 1,
+         "BehviorChecked": false,
+         "Category_ID": null,
+         "IsActive": true,
+         "Org_ID": null
+       },
+       {
+         "Behavior": "comm 2",
+         "BehaviorDesc": "comm 2",
+         "BehaviorType": "Enterprise",
+         "BehaviorType_ID": 1,
+         "Behavior_ID": 5,
+         "BehviorChecked": false,
+         "Category_ID": null,
+         "IsActive": true,
+         "Org_ID": null
+       },
+       {
+         "Behavior": "comm 3",
+         "BehaviorDesc": "comm 3",
+         "BehaviorType": "Enterprise",
+         "BehaviorType_ID": 1,
+         "Behavior_ID": 7,
+         "BehviorChecked": false,
+         "Category_ID": null,
+         "IsActive": true,
+         "Org_ID": null
+       }
+     ],
+     "IsActive": true,
+     "JSSE_ID": null,
+     "OrgBehaviors": [],
+     "RatingID": null,
+     "Ratings": [
+       {
+         "Rating": "Exceptional",
+         "RatingChecked": false,
+         "Rating_ID": 1,
+         "Selected": false
+       },
+       {
+         "Rating": "Effective",
+         "RatingChecked": false,
+         "Rating_ID": 2,
+         "Selected": false
+       },
+       {
+         "Rating": "Improvement Opportunity",
+         "RatingChecked": false,
+         "Rating_ID": 3,
+         "Selected": false
+       }
+     ]
+   },
+   {
+     "Category": "Energy Source Control",
+     "CategoryDesc": "Energy Source Control",
+     "Category_ID": 2,
+     "Comments": null,
+     "EntBehaviors": [
+       {
+         "Behavior": "Energy Src Beh 1",
+         "BehaviorDesc": "Energy Src Beh 1",
+         "BehaviorType": "Enterprise",
+         "BehaviorType_ID": 1,
+         "Behavior_ID": 6,
+         "BehviorChecked": false,
+         "Category_ID": null,
+         "IsActive": true,
+         "Org_ID": null
+       }
+     ],
+     "IsActive": true,
+     "JSSE_ID": null,
+     "OrgBehaviors": [],
+     "RatingID": null,
+     "Ratings": [
+       {
+         "Rating": "Exceptional",
+         "RatingChecked": false,
+         "Rating_ID": 1,
+         "Selected": false
+       },
+       {
+         "Rating": "Effective",
+         "RatingChecked": false,
+         "Rating_ID": 2,
+         "Selected": false
+       },
+       {
+         "Rating": "Improvement Opportunity",
+         "RatingChecked": false,
+         "Rating_ID": 3,
+         "Selected": false
+       }
+     ]
+   },
+   {
+     "Category": "string",
+     "CategoryDesc": "string",
+     "Category_ID": 3,
+     "Comments": null,
+     "EntBehaviors": [],
+     "IsActive": true,
+     "JSSE_ID": null,
+     "OrgBehaviors": [],
+     "RatingID": null,
+     "Ratings": [
+       {
+         "Rating": "Exceptional",
+         "RatingChecked": false,
+         "Rating_ID": 1,
+         "Selected": false
+       },
+       {
+         "Rating": "Effective",
+         "RatingChecked": false,
+         "Rating_ID": 2,
+         "Selected": false
+       },
+       {
+         "Rating": "Improvement Opportunity",
+         "RatingChecked": false,
+         "Rating_ID": 3,
+         "Selected": false
+       }
+     ]
+   }
+]  
